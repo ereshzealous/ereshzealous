@@ -20,7 +20,7 @@
 
 [<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][blog]
 [<img align="left" alt="go" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />][blog]
-[<img align="left" alt="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />][blog]
+[<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][blog]
 [<img align="left" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][blog]
 [<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][blog]
 [<img align="left" alt="Postgresql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][blog]
