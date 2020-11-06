@@ -1,19 +1,19 @@
-### Hi there, I'm Eresh Gorantla - aka [medium][website] 👋
+### Hi there, I'm Eresh Gorantla👋
 
-[![Website](https://img.shields.io/website?label=medium.com&style=for-the-badge&url=https://medium.com)](https://eresh-zealous.medium.com/)
+## I'm a Full stack Developer, Technology Entusiast, Movie Buff, Traveller and Great Cook!!
 
+- 🌱 I’m currently exploring new things in technology. 🤣
+- 👯 I’m looking to collaborate with other content creators.
+- ⚡ I love to play cricket, badminton and i love to cook.
 
-<!--
-**ereshzealous/ereshzealous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect me 
+[<img align="left" alt="https://eresh-zealous.medium.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-Here are some ideas to get you started:
+[blog]: https://eresh-zealous.medium.com/
+[linkedin]: https://www.linkedin.com/in/eresh-gorantla-bb8b2722/
+[stackoverflow]: https://stackoverflow.com/users/1873344/eresh
+[facebook]:https://www.facebook.com/eresh.gorantla/
 
--🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
