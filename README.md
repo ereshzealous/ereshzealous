@@ -26,6 +26,11 @@
 [<img align="left" alt="Postgresql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][blog]
 [<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />][blog]
 [<img align="left" alt="GCP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />][blog]
+[<img align="left" alt="Angular" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />][blog]
+[<img align="left" alt="Scala" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scala.svg" />][blog]
+[<img align="left" alt="Mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][blog]
+[<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][blog]
+[<img align="left" alt="Apache Spark" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />][blog]
 
 
 [blog]: https://eresh-zealous.medium.com/
