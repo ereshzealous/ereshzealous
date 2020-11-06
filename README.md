@@ -47,6 +47,14 @@
 - [Solution for Scoped Bean Injection Problem in Spring](https://medium.com/faun/solution-for-scoped-bean-injection-problem-in-spring-91de3c9daa20?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
+--- 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Eresh's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&show_icons=true&hide_border=true" />
+
+</details>
+
 [blog]: https://eresh-zealous.medium.com/
 [linkedin]: https://www.linkedin.com/in/eresh-gorantla-bb8b2722/
 [stackoverflow]: https://stackoverflow.com/users/1873344/eresh
