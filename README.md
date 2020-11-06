@@ -1,6 +1,6 @@
-### Hi there, I'm Eresh Gorantla - aka [codeSTACKr][website] 👋
+### Hi there, I'm Eresh Gorantla - aka [medium][website] 👋
 
-[![Website](https://img.shields.io/website?label=medium.com&style=for-the-badge)](https://eresh-zealous.medium.com/)
+[![Website](https://img.shields.io/website?label=medium.com)](https://eresh-zealous.medium.com/)
 
 
 <!--
