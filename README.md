@@ -31,6 +31,8 @@
 [<img align="left" alt="Mysql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][blog]
 [<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][blog]
 [<img align="left" alt="Apache Spark" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg" />][blog]
+[<img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />][blog]
+[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][blog]
 
 
 [blog]: https://eresh-zealous.medium.com/
