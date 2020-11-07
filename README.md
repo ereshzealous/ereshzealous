@@ -9,7 +9,6 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.ereshzealous.vercel.app/api/spotify-playing" alt="Eresh Spotify Playing" width="350" />](https://open.spotify.com/user/bc5yb6pqs4zoiykj57058n1v7)
 [![Spotify](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/user/bc5yb6pqs4zoiykj57058n1v7)
 
 ### Connect with me 
