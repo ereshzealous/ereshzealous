@@ -53,6 +53,15 @@
 
 --- 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Eresh's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&show_icons=true&hide_border=true" />
