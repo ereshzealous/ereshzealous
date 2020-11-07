@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://https://novatorem.ereshzealous.vercel.app)](https://open.spotify.com/user/bc5yb6pqs4zoiykj57058n1v7)
+[![Spotify](https://https://novatorem.ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/user/bc5yb6pqs4zoiykj57058n1v7)
 
 ### Connect with me 
 
