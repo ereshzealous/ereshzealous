@@ -52,14 +52,12 @@
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
 
 --- 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
