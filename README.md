@@ -34,8 +34,9 @@
 [<img align="left" alt="Apache Spark" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white" />][blog]
 [<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />][blog]
 
-<br/>
-<br/>
+<br />
+<br />
+<br />
 
 ### 📕 Latest Blog Posts
 
