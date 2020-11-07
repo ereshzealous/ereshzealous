@@ -19,7 +19,7 @@
 
 ### Technology Stack:
 
-[<img align="left" alt="Java" src="<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>" />][blog]
+[<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />][blog]
 [<img align="left" alt="go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />][blog]
 [<img align="left" alt="Spring Boot" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />][blog]
 [<img align="left" alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />][blog]
