@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/user/bc5yb6pqs4zoiykj57058n1v7)
+[<img src="https://novatorem.ereshzealous.vercel.app/api/spotify-playing" alt="Eresh Spotify Playing" width="350" />](https://open.spotify.com/user/bc5yb6pqs4zoiykj57058n1v7)
 
 ### Connect with me 
 
@@ -62,13 +62,13 @@
 
 <!--END_SECTION:activity-->
 
+<br />
+<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stat
 
   <img align="left" alt="Eresh's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&show_icons=true&hide_border=true" />
 
-</details>
 
 [blog]: https://eresh-zealous.medium.com/
 [linkedin]: https://www.linkedin.com/in/eresh-gorantla-bb8b2722/
