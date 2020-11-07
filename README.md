@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently exploring new things in technology. 🤣
 - 👯 I’m looking to collaborate with other content creators.
+- 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to play cricket, badminton and i love to cook.
 
 ### Connect with me 
