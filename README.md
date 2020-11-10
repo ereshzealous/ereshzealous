@@ -51,6 +51,7 @@
 - [Microservices Observability With Zipkin and Spring Cloud-Sleuth](https://medium.com/swlh/microservices-observability-with-zipkin-and-spring-cloud-sleuth-66508ce6840?source=rss-730530feb059------2)
 - [Memory allocation Case Study (Java vs GoLang)](https://medium.com/faun/memory-allocation-case-study-java-vs-golang-2e56d242d1ed?source=rss-730530feb059------2)
 - [Go Modules with Private GIT Repository](https://medium.com/swlh/go-modules-with-private-git-repository-3940b6835727?source=rss-730530feb059------2)
+- [Solution for Scoped Bean Injection Problem in Spring](https://medium.com/faun/solution-for-scoped-bean-injection-problem-in-spring-91de3c9daa20?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
