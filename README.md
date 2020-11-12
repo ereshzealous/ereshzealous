@@ -1,4 +1,4 @@
-### Hi there, I'm Eresh Gorantla👋.  <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
+### Hi there, I'm Eresh Gorantla👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
 
 ## I'm a Full stack Developer, Technology Entusiast, Movie Buff, Traveller and Great Cook!!
 
