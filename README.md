@@ -72,12 +72,10 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=ereshzealous&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&show_icons=true&hide_border=true"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&hide=html&layout=compact&theme=buefy"/></td>
     </tr>   
   </table>
 </center>
-
-  <img align="left" alt="Eresh's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ereshzealous&show_icons=true&hide_border=true" />
 
 
 [blog]: https://eresh-zealous.medium.com/
