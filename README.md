@@ -77,13 +77,14 @@
   </table>
 </center>
 
+![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)
+
 
 [blog]: https://eresh-zealous.medium.com/
 [linkedin]: https://www.linkedin.com/in/eresh-gorantla-bb8b2722/
 [stackoverflow]: https://stackoverflow.com/users/1873344/eresh
 [facebook]:https://www.facebook.com/eresh.gorantla/
 
-<br />
-![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)
+
 
 
