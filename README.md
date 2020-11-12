@@ -1,4 +1,4 @@
-### Hi there, I'm Eresh Gorantla👋
+### Hi there, I'm Eresh Gorantla👋.  ![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)
 
 ## I'm a Full stack Developer, Technology Entusiast, Movie Buff, Traveller and Great Cook!!
 
@@ -76,8 +76,6 @@
     </tr>   
   </table>
 </center>
-
-![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)
 
 
 [blog]: https://eresh-zealous.medium.com/
