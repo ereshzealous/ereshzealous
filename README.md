@@ -1,17 +1,17 @@
-### Hi there, I'm Eresh Gorantla👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
+### Hi there, I'm Eresh Gorantla👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
 
-## I'm a Full stack Developer, Technology Entusiast, Movie Buff, Traveller and Great Cook!!
+## I'm a Full stack Developer, Technology Entusiast, Movie Buff, Traveller and Great Cook!!!
 
 - 🌱 I’m currently exploring new things in technology. 🤣
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ I love to play cricket, badminton and i love to cook.
+- ⚡ I love to play cricket, badminton and love cooking.
 
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/user/bc5yb6pqs4zoiykj57058n1v7)
 
-### Connect with me 
+### Connect with me
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -46,6 +46,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Bulkhead Pattern — MicroService Design Pattern](https://medium.com/swlh/bulkhead-pattern-microservice-design-pattern-9e30d414a0fd?source=rss-730530feb059------2)
 - [AWS SIGV4 for Spring Boot Applications](https://medium.com/swlh/aws-sigv4-for-spring-boot-applications-a65d579f80c5?source=rss-730530feb059------2)
 - [Spring Cloud Config Bus — Auto Refresh Properties for Clients](https://medium.com/swlh/spring-cloud-config-bus-auto-refresh-properties-for-clients-d18fa4c036cb?source=rss-730530feb059------2)
@@ -71,12 +72,6 @@
   </table>
 </center>
 
-
 [blog]: https://eresh-zealous.medium.com/
 [linkedin]: https://www.linkedin.com/in/eresh-gorantla-bb8b2722/
 [stackoverflow]: https://stackoverflow.com/users/1873344/eresh
-[facebook]:https://www.facebook.com/eresh.gorantla/
-
-
-
-
