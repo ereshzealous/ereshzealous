@@ -7,6 +7,11 @@
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ I love to play cricket, badminton and love cooking.
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-5jbgrmfim-ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/user/bc5yb6pqs4zoiykj57058n1v7)
+
+
 ### Connect with me
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
