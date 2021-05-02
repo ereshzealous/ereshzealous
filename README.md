@@ -40,7 +40,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres BRIN Index — Large Data Performance With minimal Storage](https://medium.com/swlh/postgres-brin-index-large-data-performance-with-minimal-storage-4db6b9f64ca4?source=rss-730530feb059------2)
+- [Postgres BRIN Index — Large Data Performance With Minimal Storage](https://medium.com/geekculture/postgres-brin-index-large-data-performance-with-minimal-storage-4db6b9f64ca4?source=rss-730530feb059------2)
 - [Safeguarding Node JS Applications](https://medium.com/geekculture/safeguarding-node-js-applications-3af4a7850e0d?source=rss-730530feb059------2)
 - [Bulkhead Pattern — MicroService Design Pattern](https://medium.com/geekculture/bulkhead-pattern-microservice-design-pattern-9e30d414a0fd?source=rss-730530feb059------2)
 - [AWS SIGV4 for Spring Boot Applications](https://medium.com/swlh/aws-sigv4-for-spring-boot-applications-a65d579f80c5?source=rss-730530feb059------2)
@@ -49,7 +49,7 @@
 - [Spring Cloud Config Server Composite Configuration (JDBC + Redis + AWSS3)](https://medium.com/swlh/spring-cloud-config-server-composite-configuration-jdbc-redis-awss3-d849c4d94383?source=rss-730530feb059------2)
 - [Performance Comparison on Spring Rest vs GRPC Unary and Stream Processing](https://medium.com/swlh/performance-comparison-on-spring-rest-vs-grpc-unary-and-stream-processing-4ea032777051?source=rss-730530feb059------2)
 - [Redis Master Slave Configuration and Tested in Spring Boot](https://faun.pub/redis-master-slave-configuration-and-tested-in-spring-boot-3a68e7314b90?source=rss-730530feb059------2)
-- [Event Driven Architecture With Redis Streams Using Spring Boot](https://eresh-gorantla.medium.com/event-driven-architecture-with-redis-streams-using-spring-boot-a81a1c9a4cde?source=rss-730530feb059------2)
+- [Event Driven Architecture With Redis Streams Using Spring Boot](https://medium.com/nerd-for-tech/event-driven-architecture-with-redis-streams-using-spring-boot-a81a1c9a4cde?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
