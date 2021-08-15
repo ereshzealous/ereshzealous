@@ -40,7 +40,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DB Dead Lock, Complete Case Study Using GoLang](https://medium.com/swlh/db-dead-lock-complete-case-study-using-golang-15dd754e5cb8?source=rss-730530feb059------2)
+- [Change Data Capture, Use Cases and real-world example using Debezium](https://medium.com/swlh/change-data-capture-use-cases-and-real-world-example-using-debezium-fe4098579d49?source=rss-730530feb059------2)
+- [Resolve Hibernate N+1 problem](https://medium.com/geekculture/resolve-hibernate-n-1-problem-f0e049e689ab?source=rss-730530feb059------2)
+- [DB Dead Lock, Complete Case Study Using GoLang](https://medium.com/nerd-for-tech/db-dead-lock-complete-case-study-using-golang-15dd754e5cb8?source=rss-730530feb059------2)
 - [DB Migration In Go Lang](https://medium.com/geekculture/db-migration-in-go-lang-d325effc55de?source=rss-730530feb059------2)
 - [Data Pipeline from Kafka To Elastic-search using logstash](https://medium.com/geekculture/data-pipeline-from-kafka-to-elastic-search-using-logstash-5edca8d44d82?source=rss-730530feb059------2)
 - [Migrate Geometry and JsonB data from Postgres to ElasticSearch from logstash JDBC Input plugin](https://medium.com/geekculture/migrate-geometry-and-jsonb-data-from-postgres-to-elasticsearch-from-logstash-jdbc-input-plugin-d304a8ad47a6?source=rss-730530feb059------2)
@@ -48,8 +50,6 @@
 - [Safeguarding Node JS Applications](https://medium.com/geekculture/safeguarding-node-js-applications-3af4a7850e0d?source=rss-730530feb059------2)
 - [Bulkhead Pattern — MicroService Design Pattern](https://medium.com/geekculture/bulkhead-pattern-microservice-design-pattern-9e30d414a0fd?source=rss-730530feb059------2)
 - [AWS SIGV4 for Spring Boot Applications](https://medium.com/swlh/aws-sigv4-for-spring-boot-applications-a65d579f80c5?source=rss-730530feb059------2)
-- [Spring Cloud Config Bus — Auto Refresh Properties for Clients](https://medium.com/swlh/spring-cloud-config-bus-auto-refresh-properties-for-clients-d18fa4c036cb?source=rss-730530feb059------2)
-- [Spring Cloud Config — Encryption and Decryption at Rest](https://medium.com/swlh/spring-cloud-config-encryption-and-decryption-at-rest-f59b4e95df0?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
