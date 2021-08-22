@@ -40,6 +40,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Outbox Pattern for reliable data exchange between Microservices](https://medium.com/codex/outbox-pattern-for-reliable-data-exchange-between-microservices-9c938e8158d9?source=rss-730530feb059------2)
 - [Change Data Capture, Use Cases and real-world example using Debezium](https://medium.com/swlh/change-data-capture-use-cases-and-real-world-example-using-debezium-fe4098579d49?source=rss-730530feb059------2)
 - [Resolve Hibernate N+1 problem](https://medium.com/geekculture/resolve-hibernate-n-1-problem-f0e049e689ab?source=rss-730530feb059------2)
 - [DB Dead Lock, Complete Case Study Using GoLang](https://medium.com/nerd-for-tech/db-dead-lock-complete-case-study-using-golang-15dd754e5cb8?source=rss-730530feb059------2)
@@ -49,7 +50,6 @@
 - [Postgres BRIN Index — Large Data Performance With Minimal Storage](https://medium.com/geekculture/postgres-brin-index-large-data-performance-with-minimal-storage-4db6b9f64ca4?source=rss-730530feb059------2)
 - [Safeguarding Node JS Applications](https://medium.com/geekculture/safeguarding-node-js-applications-3af4a7850e0d?source=rss-730530feb059------2)
 - [Bulkhead Pattern — MicroService Design Pattern](https://medium.com/geekculture/bulkhead-pattern-microservice-design-pattern-9e30d414a0fd?source=rss-730530feb059------2)
-- [AWS SIGV4 for Spring Boot Applications](https://medium.com/swlh/aws-sigv4-for-spring-boot-applications-a65d579f80c5?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
