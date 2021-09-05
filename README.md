@@ -42,7 +42,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Spring Cloud Streams With Functional Programming Model](https://medium.com/geekculture/spring-cloud-streams-with-functional-programming-model-93d49696584c?source=rss-730530feb059------2)
 - [Outbox Pattern for reliable data exchange between Microservices](https://medium.com/codex/outbox-pattern-for-reliable-data-exchange-between-microservices-9c938e8158d9?source=rss-730530feb059------2)
-- [Change Data Capture, Use Cases and real-world example using Debezium](https://medium.com/swlh/change-data-capture-use-cases-and-real-world-example-using-debezium-fe4098579d49?source=rss-730530feb059------2)
+- [Change Data Capture, Use Cases and real-world example using Debezium](https://medium.com/geekculture/change-data-capture-use-cases-and-real-world-example-using-debezium-fe4098579d49?source=rss-730530feb059------2)
 - [Resolve Hibernate N+1 problem](https://medium.com/geekculture/resolve-hibernate-n-1-problem-f0e049e689ab?source=rss-730530feb059------2)
 - [DB Dead Lock, Complete Case Study Using GoLang](https://medium.com/nerd-for-tech/db-dead-lock-complete-case-study-using-golang-15dd754e5cb8?source=rss-730530feb059------2)
 - [DB Migration In Go Lang](https://medium.com/geekculture/db-migration-in-go-lang-d325effc55de?source=rss-730530feb059------2)
