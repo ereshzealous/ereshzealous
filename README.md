@@ -40,6 +40,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Standardize Data Format for Kafka Event streams using Apache Avro and Schema Evolution](https://medium.com/nerd-for-tech/standardize-data-format-for-kafka-event-streams-using-apache-avro-and-schema-evolution-a2df6924b54c?source=rss-730530feb059------2)
 - [Postgres JSONB Usage and performance analysis](https://medium.com/geekculture/postgres-jsonb-usage-and-performance-analysis-cdbd1242a018?source=rss-730530feb059------2)
 - [Spring Cloud Streams With Functional Programming Model](https://medium.com/geekculture/spring-cloud-streams-with-functional-programming-model-93d49696584c?source=rss-730530feb059------2)
 - [Outbox Pattern for reliable data exchange between Microservices](https://medium.com/codex/outbox-pattern-for-reliable-data-exchange-between-microservices-9c938e8158d9?source=rss-730530feb059------2)
@@ -49,7 +50,6 @@
 - [DB Migration In Go Lang](https://medium.com/geekculture/db-migration-in-go-lang-d325effc55de?source=rss-730530feb059------2)
 - [Data Pipeline from Kafka To Elastic-search using logstash](https://medium.com/geekculture/data-pipeline-from-kafka-to-elastic-search-using-logstash-5edca8d44d82?source=rss-730530feb059------2)
 - [Migrate Geometry and JsonB data from Postgres to ElasticSearch from logstash JDBC Input plugin](https://medium.com/geekculture/migrate-geometry-and-jsonb-data-from-postgres-to-elasticsearch-from-logstash-jdbc-input-plugin-d304a8ad47a6?source=rss-730530feb059------2)
-- [Postgres BRIN Index — Large Data Performance With Minimal Storage](https://medium.com/geekculture/postgres-brin-index-large-data-performance-with-minimal-storage-4db6b9f64ca4?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
