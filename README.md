@@ -40,7 +40,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Low Latency (OLAP) Movie Rating Analytics Using Apache Pinot](https://medium.com/geekculture/low-latency-olap-movie-rating-analytics-using-apache-pinot-cc3198e4e012?source=rss-730530feb059------2)
+- [Low Latency &lpar;OLAP&rpar; Movie Rating Analytics Using Apache Pinot](https://medium.com/geekculture/low-latency-olap-movie-rating-analytics-using-apache-pinot-cc3198e4e012?source=rss-730530feb059------2)
 - [Elastic Search Geo Point and Geo Shape Queries Explained](https://medium.com/geekculture/elastic-search-geo-point-and-geo-shape-queries-explained-df69ec157527?source=rss-730530feb059------2)
 - [Elastic Search Queries Hands-on Examples using Spring Boot and Kibana Dev Console](https://medium.com/geekculture/elastic-search-queries-hands-on-examples-fe5b2bc10c0e?source=rss-730530feb059------2)
 - [Standardize Data Format for Kafka Event streams using Apache Avro and Schema Evolution](https://medium.com/nerd-for-tech/standardize-data-format-for-kafka-event-streams-using-apache-avro-and-schema-evolution-a2df6924b54c?source=rss-730530feb059------2)
