@@ -40,16 +40,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Polyglot Distributed Tracing Pipeline with OpenTelemetry — From Zero to End-to-End…](https://medium.com/codex/building-a-polyglot-distributed-tracing-pipeline-with-opentelemetry-from-zero-to-end-to-end-c14a0506d50c?source=rss-730530feb059------2)
 - [Case-Insensitive Text Search in PostgreSQL: What’s Fast and What Fails](https://medium.com/codex/case-insensitive-text-search-in-postgresql-whats-fast-and-what-fails-f836024c4590?source=rss-730530feb059------2)
 - [FastAPI: The Modern Python Web Framework That Bridges Performance and Simplicity](https://medium.com/codex/fastapi-the-modern-python-web-framework-that-bridges-performance-and-simplicity-cfc4ab807418?source=rss-730530feb059------2)
-- [Behind The Scenes OpenTelemetry: How Distributed Tracing actually Works](https://medium.com/geekculture/behind-the-scenes-opentelemetry-how-distributed-tracing-actually-works-c6db84ce287b?source=rss-730530feb059------2)
+- [Behind The Scenes OpenTelemetry: How Distributed Tracing actually Works](https://medium.com/codex/behind-the-scenes-opentelemetry-how-distributed-tracing-actually-works-c6db84ce287b?source=rss-730530feb059------2)
 - [Storing and processing real-time time-series data with Influx DB](https://blog.devgenius.io/storing-and-processing-real-time-time-series-data-with-influx-db-5ba9bb015539?source=rss-730530feb059------2)
 - [Low Latency &lpar;OLAP&rpar; Movie Rating Analytics Using Apache Pinot](https://medium.com/geekculture/low-latency-olap-movie-rating-analytics-using-apache-pinot-cc3198e4e012?source=rss-730530feb059------2)
 - [Elastic Search Geo Point and Geo Shape Queries Explained](https://medium.com/geekculture/elastic-search-geo-point-and-geo-shape-queries-explained-df69ec157527?source=rss-730530feb059------2)
 - [Elastic Search Queries Hands-on Examples using Spring Boot and Kibana Dev Console](https://medium.com/geekculture/elastic-search-queries-hands-on-examples-fe5b2bc10c0e?source=rss-730530feb059------2)
 - [Standardize Data Format for Kafka Event streams using Apache Avro and Schema Evolution](https://medium.com/nerd-for-tech/standardize-data-format-for-kafka-event-streams-using-apache-avro-and-schema-evolution-a2df6924b54c?source=rss-730530feb059------2)
 - [Postgres JSONB Usage and performance analysis](https://medium.com/geekculture/postgres-jsonb-usage-and-performance-analysis-cdbd1242a018?source=rss-730530feb059------2)
-- [Spring Cloud Streams With Functional Programming Model](https://medium.com/geekculture/spring-cloud-streams-with-functional-programming-model-93d49696584c?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
