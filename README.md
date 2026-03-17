@@ -1,6 +1,6 @@
 ### Hi there, I'm Eresh Gorantla👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
 
-## I'm a Full stack Developer, Technology Entusiast, Movie Buff, Traveller and Great Cook!!!
+### I’m a Senior Staff Engineer / Architect focused on building large-scale distributed systems, data platforms, and AI-powered developer tooling. My work revolves around designing systems that operate at scale, reliability, and real-time performance, with strong emphasis on developer experience and platform thinking.
 
 - 🌱 I’m currently exploring new things in technology. 🤣
 - 👯 I’m looking to collaborate with other content creators.
