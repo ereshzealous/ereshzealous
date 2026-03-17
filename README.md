@@ -1,24 +1,47 @@
-### Hi there, I'm Eresh Gorantla👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
+<!-- ======================= HEADER ======================= -->
 
-## 🧠 About Me 
+<h1 align="center">Hi 👋, I'm Eresh Gorantla</h1>
+<h3 align="center">Senior Staff Engineer • Architect • Distributed Systems • Data And AI Platforms</h3>
 
-I’m a Senior Staff Engineer / Architect focused on building large-scale distributed systems, data platforms, and AI-powered developer tooling.
-My work revolves around designing systems that operate at scale, reliability, and real-time performance, with strong emphasis on developer experience and platform thinking.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ereshzealous&label=Profile%20views&color=yellow&style=flat" alt="views" />
+</p>
 
-I work across:
-- ⚙️ Distributed Systems & Data Platforms
-- 📡 Event-driven architectures (Kafka, CDC, streaming)
-- ☁️ Cloud-native infrastructure (AWS, Kubernetes)
-- 🤖 AI/LLM-powered engineering systems
-- 🧰 Developer platforms & internal tooling
+<p align="center">
+  <b>Building scalable data platforms, AI-powered developer tools, and real-time distributed systems.</b>
+</p>
 
-## 🚀 Current Focus
+## 🧠 About Me
 
-- 🤖 AI Code Agents → JetBrains + CLI-based architecture-aware assistants
-- 📊 Conversational BI → Text-to-SQL + LLM-driven analytics
-- 📡 Telemetry & Observability Platforms → OpenTelemetry pipelines
-- ⚙️ Schema Management Systems → Cassandra/Keyspaces migration tooling (cql-track)
-- 🧪 High-scale Data Simulation → CDC pipelines & synthetic workloads
+I’m a **Senior Staff Engineer / Architect** specializing in:
+
+- ⚙️ Designing **large-scale distributed systems**
+- 📊 Building **real-time data platforms & streaming pipelines**
+- 🤖 Developing **AI/LLM-powered developer tools**
+- ☁️ Architecting **cloud-native systems on AWS & Kubernetes**
+
+I focus on **platform thinking** — building systems that scale across teams, services, and use cases.
+
+---
+
+## 🚀 What I’m Building
+
+- 🤖 **AI Code Agent (JetBrains + CLI)**  
+  → Architecture-aware code understanding, planning & generation
+
+- 📊 **Conversational BI Platform**  
+  → Text-to-SQL + LLM-driven analytics
+
+- 📡 **Telemetry & Observability Systems**  
+  → OpenTelemetry pipelines at scale
+
+- ⚙️ **cqltrack (Cassandra Migration Tool)**  
+  → Distributed-safe schema evolution system
+
+- 🧪 **CDC & Data Simulation Frameworks**  
+  → High-scale Kafka + Debezium pipelines
+
+---
 
 ## Connect with me
 
