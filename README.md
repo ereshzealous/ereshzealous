@@ -1,15 +1,24 @@
 ### Hi there, I'm Eresh Gorantla👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
 
-🧠 About Me
+## 🧠 About Me 
+
 I’m a Senior Staff Engineer / Architect focused on building large-scale distributed systems, data platforms, and AI-powered developer tooling.
 My work revolves around designing systems that operate at scale, reliability, and real-time performance, with strong emphasis on developer experience and platform thinking.
 
 I work across:
-⚙️ Distributed Systems & Data Platforms
-📡 Event-driven architectures (Kafka, CDC, streaming)
-☁️ Cloud-native infrastructure (AWS, Kubernetes)
-🤖 AI/LLM-powered engineering systems
-🧰 Developer platforms & internal tooling
+- ⚙️ Distributed Systems & Data Platforms
+- 📡 Event-driven architectures (Kafka, CDC, streaming)
+- ☁️ Cloud-native infrastructure (AWS, Kubernetes)
+- 🤖 AI/LLM-powered engineering systems
+- 🧰 Developer platforms & internal tooling
+
+## 🚀 Current Focus
+
+- 🤖 AI Code Agents → JetBrains + CLI-based architecture-aware assistants
+- 📊 Conversational BI → Text-to-SQL + LLM-driven analytics
+- 📡 Telemetry & Observability Platforms → OpenTelemetry pipelines
+- ⚙️ Schema Management Systems → Cassandra/Keyspaces migration tooling (cql-track)
+- 🧪 High-scale Data Simulation → CDC pipelines & synthetic workloads
 
 ### Connect with me
 
