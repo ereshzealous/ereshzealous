@@ -1,11 +1,15 @@
 ### Hi there, I'm Eresh Gorantla👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
 
-### I’m a Senior Staff Engineer / Architect focused on building large-scale distributed systems, data platforms, and AI-powered developer tooling. My work revolves around designing systems that operate at scale, reliability, and real-time performance, with strong emphasis on developer experience and platform thinking.
+🧠 About Me
+I’m a Senior Staff Engineer / Architect focused on building large-scale distributed systems, data platforms, and AI-powered developer tooling.
+My work revolves around designing systems that operate at scale, reliability, and real-time performance, with strong emphasis on developer experience and platform thinking.
 
-- 🌱 I’m currently exploring new things in technology. 🤣
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ I love to play cricket, badminton and love cooking.
+I work across:
+⚙️ Distributed Systems & Data Platforms
+📡 Event-driven architectures (Kafka, CDC, streaming)
+☁️ Cloud-native infrastructure (AWS, Kubernetes)
+🤖 AI/LLM-powered engineering systems
+🧰 Developer platforms & internal tooling
 
 ### Connect with me
 
