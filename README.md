@@ -129,6 +129,8 @@ I focus on **platform thinking** — building systems that scale across teams, s
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing the Myers Diff Algorithm in TypeScript — Character-Level Precision](https://blog.devgenius.io/implementing-the-myers-diff-algorithm-in-typescript-character-level-precision-5aa0430f6727?source=rss-730530feb059------2)
+- [From Stack Trace to Root Cause — Archexa’s New Diagnose Command](https://eresh-gorantla.medium.com/from-stack-trace-to-root-cause-archexas-new-diagnose-command-1b50b4e2a6eb?source=rss-730530feb059------2)
 - [Building a SQL Tokenizer and Formatter From Scratch — Supporting 6 Dialects](https://medium.com/codex/building-a-sql-tokenizer-and-formatter-from-scratch-supporting-6-dialects-3a7ff63bb870?source=rss-730530feb059------2)
 - [I Built a QR Code Encoder From Scratch in TypeScript — Here’s How It Works](https://medium.com/codex/i-built-a-qr-code-encoder-from-scratch-in-typescript-heres-how-it-works-77f8e36ddd67?source=rss-730530feb059------2)
 - [I Got Tired of Outdated Architecture Docs — So I Built Archexa](https://medium.com/swlh/i-got-tired-of-outdated-architecture-docs-so-i-built-archexa-62acf19c842e?source=rss-730530feb059------2)
@@ -137,8 +139,6 @@ I focus on **platform thinking** — building systems that scale across teams, s
 - [Case-Insensitive Text Search in PostgreSQL: What’s Fast and What Fails](https://medium.com/codex/case-insensitive-text-search-in-postgresql-whats-fast-and-what-fails-f836024c4590?source=rss-730530feb059------2)
 - [FastAPI: The Modern Python Web Framework That Bridges Performance and Simplicity](https://medium.com/codex/fastapi-the-modern-python-web-framework-that-bridges-performance-and-simplicity-cfc4ab807418?source=rss-730530feb059------2)
 - [Behind The Scenes OpenTelemetry: How Distributed Tracing actually Works](https://medium.com/codex/behind-the-scenes-opentelemetry-how-distributed-tracing-actually-works-c6db84ce287b?source=rss-730530feb059------2)
-- [Storing and processing real-time time-series data with Influx DB](https://blog.devgenius.io/storing-and-processing-real-time-time-series-data-with-influx-db-5ba9bb015539?source=rss-730530feb059------2)
-- [Low Latency &lpar;OLAP&rpar; Movie Rating Analytics Using Apache Pinot](https://medium.com/geekculture/low-latency-olap-movie-rating-analytics-using-apache-pinot-cc3198e4e012?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
