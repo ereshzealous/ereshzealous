@@ -130,11 +130,11 @@ I focus on **platform thinking** — building systems that scale across teams, s
 
 <!-- BLOG-POST-LIST:START -->
 - [Implementing the Myers Diff Algorithm in TypeScript — Character-Level Precision](https://blog.devgenius.io/implementing-the-myers-diff-algorithm-in-typescript-character-level-precision-5aa0430f6727?source=rss-730530feb059------2)
-- [From Stack Trace to Root Cause — Archexa’s New Diagnose Command](https://eresh-gorantla.medium.com/from-stack-trace-to-root-cause-archexas-new-diagnose-command-1b50b4e2a6eb?source=rss-730530feb059------2)
+- [From Stack Trace to Root Cause — Archexa’s New Diagnose Command](https://blog.devgenius.io/from-stack-trace-to-root-cause-archexas-new-diagnose-command-1b50b4e2a6eb?source=rss-730530feb059------2)
 - [Building a SQL Tokenizer and Formatter From Scratch — Supporting 6 Dialects](https://medium.com/codex/building-a-sql-tokenizer-and-formatter-from-scratch-supporting-6-dialects-3a7ff63bb870?source=rss-730530feb059------2)
 - [I Built a QR Code Encoder From Scratch in TypeScript — Here’s How It Works](https://medium.com/codex/i-built-a-qr-code-encoder-from-scratch-in-typescript-heres-how-it-works-77f8e36ddd67?source=rss-730530feb059------2)
-- [I Got Tired of Outdated Architecture Docs — So I Built Archexa](https://medium.com/swlh/i-got-tired-of-outdated-architecture-docs-so-i-built-archexa-62acf19c842e?source=rss-730530feb059------2)
-- [I Built a Schema Migration Tool for Cassandra Because Nothing Else Worked](https://medium.com/swlh/i-built-a-schema-migration-tool-for-cassandra-because-nothing-else-worked-29a98bec20b4?source=rss-730530feb059------2)
+- [I Got Tired of Outdated Architecture Docs — So I Built Archexa](https://blog.devgenius.io/i-got-tired-of-outdated-architecture-docs-so-i-built-archexa-62acf19c842e?source=rss-730530feb059------2)
+- [I Built a Schema Migration Tool for Cassandra Because Nothing Else Worked](https://blog.devgenius.io/i-built-a-schema-migration-tool-for-cassandra-because-nothing-else-worked-29a98bec20b4?source=rss-730530feb059------2)
 - [Building a Polyglot Distributed Tracing Pipeline with OpenTelemetry — From Zero to End-to-End…](https://medium.com/codex/building-a-polyglot-distributed-tracing-pipeline-with-opentelemetry-from-zero-to-end-to-end-c14a0506d50c?source=rss-730530feb059------2)
 - [Case-Insensitive Text Search in PostgreSQL: What’s Fast and What Fails](https://medium.com/codex/case-insensitive-text-search-in-postgresql-whats-fast-and-what-fails-f836024c4590?source=rss-730530feb059------2)
 - [FastAPI: The Modern Python Web Framework That Bridges Performance and Simplicity](https://medium.com/codex/fastapi-the-modern-python-web-framework-that-bridges-performance-and-simplicity-cfc4ab807418?source=rss-730530feb059------2)
