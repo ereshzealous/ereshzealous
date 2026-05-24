@@ -129,6 +129,7 @@ I focus on **platform thinking** — building systems that scale across teams, s
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Production Pattern for Hybrid OpenTelemetry Collector Deployments on Kubernetes](https://eresh-gorantla.medium.com/a-production-pattern-for-hybrid-opentelemetry-collector-deployments-on-kubernetes-f2012c8f2686?source=rss-730530feb059------2)
 - [Templane - a typed-contract layer for templates, with five conforming implementations](https://medium.com/codex/templane-a-typed-contract-layer-for-templates-with-five-conforming-implementations-d94a0903802f?source=rss-730530feb059------2)
 - [Architecture Breaks Silently. I Built a Tool That Finds Out Why](https://ai.plainenglish.io/architecture-breaks-silently-i-built-a-tool-that-finds-out-why-88de58fa8c2e?source=rss-730530feb059------2)
 - [Implementing the Myers Diff Algorithm in TypeScript — Character-Level Precision](https://blog.devgenius.io/implementing-the-myers-diff-algorithm-in-typescript-character-level-precision-5aa0430f6727?source=rss-730530feb059------2)
@@ -138,7 +139,6 @@ I focus on **platform thinking** — building systems that scale across teams, s
 - [I Got Tired of Outdated Architecture Docs — So I Built Archexa](https://blog.devgenius.io/i-got-tired-of-outdated-architecture-docs-so-i-built-archexa-62acf19c842e?source=rss-730530feb059------2)
 - [I Built a Schema Migration Tool for Cassandra Because Nothing Else Worked](https://blog.devgenius.io/i-built-a-schema-migration-tool-for-cassandra-because-nothing-else-worked-29a98bec20b4?source=rss-730530feb059------2)
 - [Building a Polyglot Distributed Tracing Pipeline with OpenTelemetry — From Zero to End-to-End…](https://medium.com/codex/building-a-polyglot-distributed-tracing-pipeline-with-opentelemetry-from-zero-to-end-to-end-c14a0506d50c?source=rss-730530feb059------2)
-- [Case-Insensitive Text Search in PostgreSQL: What’s Fast and What Fails](https://medium.com/codex/case-insensitive-text-search-in-postgresql-whats-fast-and-what-fails-f836024c4590?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
