@@ -129,7 +129,7 @@ I focus on **platform thinking** — building systems that scale across teams, s
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A Production Pattern for Hybrid OpenTelemetry Collector Deployments on Kubernetes](https://eresh-gorantla.medium.com/a-production-pattern-for-hybrid-opentelemetry-collector-deployments-on-kubernetes-f2012c8f2686?source=rss-730530feb059------2)
+- [A Production Pattern for Hybrid OpenTelemetry Collector Deployments on Kubernetes](https://medium.com/codex/a-production-pattern-for-hybrid-opentelemetry-collector-deployments-on-kubernetes-f2012c8f2686?source=rss-730530feb059------2)
 - [Templane - a typed-contract layer for templates, with five conforming implementations](https://medium.com/codex/templane-a-typed-contract-layer-for-templates-with-five-conforming-implementations-d94a0903802f?source=rss-730530feb059------2)
 - [Architecture Breaks Silently. I Built a Tool That Finds Out Why](https://ai.plainenglish.io/architecture-breaks-silently-i-built-a-tool-that-finds-out-why-88de58fa8c2e?source=rss-730530feb059------2)
 - [Implementing the Myers Diff Algorithm in TypeScript — Character-Level Precision](https://blog.devgenius.io/implementing-the-myers-diff-algorithm-in-typescript-character-level-precision-5aa0430f6727?source=rss-730530feb059------2)
