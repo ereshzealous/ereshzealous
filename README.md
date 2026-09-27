@@ -129,16 +129,16 @@ I focus on **platform thinking** — building systems that scale across teams, s
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Reliable Notification System: The Bugs Live Between the Boxes](https://medium.com/codex/designing-a-reliable-notification-system-the-bugs-live-between-the-boxes-c89e40205e2a?source=rss-730530feb059------2)
+- [System Design : Reliable Multi Channel Notification System, The Bugs Live Between the Boxes](https://medium.com/codex/system-design-reliable-multi-channel-notification-system-the-bugs-live-between-the-boxes-c79ac605e282?source=rss-730530feb059------2)
+- [Distributed Systems : CDC Is Not a Pipe](https://medium.com/codex/distributed-systems-cdc-is-not-a-pipe-645e3d1e857e?source=rss-730530feb059------2)
+- [Distributed Systems: The Noisy Tenant Problem in Kafka](https://blog.devgenius.io/distributed-systems-the-noisy-tenant-problem-in-kafka-1af82ae9c16b?source=rss-730530feb059------2)
+- [Cache Stampede: How One Expired Key Takes Down Your Database](https://medium.com/codex/cache-stampede-how-one-expired-key-takes-down-your-database-4a2e748ce015?source=rss-730530feb059------2)
 - [A Production Pattern for Hybrid OpenTelemetry Collector Deployments on Kubernetes](https://medium.com/codex/a-production-pattern-for-hybrid-opentelemetry-collector-deployments-on-kubernetes-f2012c8f2686?source=rss-730530feb059------2)
 - [Templane - a typed-contract layer for templates, with five conforming implementations](https://medium.com/codex/templane-a-typed-contract-layer-for-templates-with-five-conforming-implementations-d94a0903802f?source=rss-730530feb059------2)
 - [Architecture Breaks Silently. I Built a Tool That Finds Out Why](https://ai.plainenglish.io/architecture-breaks-silently-i-built-a-tool-that-finds-out-why-88de58fa8c2e?source=rss-730530feb059------2)
 - [Implementing the Myers Diff Algorithm in TypeScript — Character-Level Precision](https://blog.devgenius.io/implementing-the-myers-diff-algorithm-in-typescript-character-level-precision-5aa0430f6727?source=rss-730530feb059------2)
 - [From Stack Trace to Root Cause — Archexa’s New Diagnose Command](https://blog.devgenius.io/from-stack-trace-to-root-cause-archexas-new-diagnose-command-1b50b4e2a6eb?source=rss-730530feb059------2)
 - [Building a SQL Tokenizer and Formatter From Scratch — Supporting 6 Dialects](https://medium.com/codex/building-a-sql-tokenizer-and-formatter-from-scratch-supporting-6-dialects-3a7ff63bb870?source=rss-730530feb059------2)
-- [I Built a QR Code Encoder From Scratch in TypeScript — Here’s How It Works](https://medium.com/codex/i-built-a-qr-code-encoder-from-scratch-in-typescript-heres-how-it-works-77f8e36ddd67?source=rss-730530feb059------2)
-- [I Got Tired of Outdated Architecture Docs — So I Built Archexa](https://blog.devgenius.io/i-got-tired-of-outdated-architecture-docs-so-i-built-archexa-62acf19c842e?source=rss-730530feb059------2)
-- [I Built a Schema Migration Tool for Cassandra Because Nothing Else Worked](https://blog.devgenius.io/i-built-a-schema-migration-tool-for-cassandra-because-nothing-else-worked-29a98bec20b4?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
