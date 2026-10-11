@@ -129,6 +129,9 @@ I focus on **platform thinking** — building systems that scale across teams, s
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Systems: A Timeout Is Not a Failure](https://medium.com/swlh/distributed-systems-a-timeout-is-not-a-failure-67a74ef824bc?source=rss-730530feb059------2)
+- [When Time Lies: Why Timestamps Don’t Tell You What Happened First](https://medium.com/swlh/when-time-lies-why-timestamps-dont-tell-you-what-happened-first-071f63bbb988?source=rss-730530feb059------2)
+- [Distributed Systems — Kafka Wasn’t Slow, Our Partition Key Was](https://medium.com/codex/distributed-systems-kafka-wasnt-slow-our-partition-key-was-55840b7411ba?source=rss-730530feb059------2)
 - [System Design : Reliable Multi Channel Notification System, The Bugs Live Between the Boxes](https://medium.com/codex/system-design-reliable-multi-channel-notification-system-the-bugs-live-between-the-boxes-c79ac605e282?source=rss-730530feb059------2)
 - [Distributed Systems : CDC Is Not a Pipe](https://medium.com/codex/distributed-systems-cdc-is-not-a-pipe-645e3d1e857e?source=rss-730530feb059------2)
 - [Distributed Systems: The Noisy Tenant Problem in Kafka](https://blog.devgenius.io/distributed-systems-the-noisy-tenant-problem-in-kafka-1af82ae9c16b?source=rss-730530feb059------2)
@@ -136,9 +139,6 @@ I focus on **platform thinking** — building systems that scale across teams, s
 - [A Production Pattern for Hybrid OpenTelemetry Collector Deployments on Kubernetes](https://medium.com/codex/a-production-pattern-for-hybrid-opentelemetry-collector-deployments-on-kubernetes-f2012c8f2686?source=rss-730530feb059------2)
 - [Templane - a typed-contract layer for templates, with five conforming implementations](https://medium.com/codex/templane-a-typed-contract-layer-for-templates-with-five-conforming-implementations-d94a0903802f?source=rss-730530feb059------2)
 - [Architecture Breaks Silently. I Built a Tool That Finds Out Why](https://ai.plainenglish.io/architecture-breaks-silently-i-built-a-tool-that-finds-out-why-88de58fa8c2e?source=rss-730530feb059------2)
-- [Implementing the Myers Diff Algorithm in TypeScript — Character-Level Precision](https://blog.devgenius.io/implementing-the-myers-diff-algorithm-in-typescript-character-level-precision-5aa0430f6727?source=rss-730530feb059------2)
-- [From Stack Trace to Root Cause — Archexa’s New Diagnose Command](https://blog.devgenius.io/from-stack-trace-to-root-cause-archexas-new-diagnose-command-1b50b4e2a6eb?source=rss-730530feb059------2)
-- [Building a SQL Tokenizer and Formatter From Scratch — Supporting 6 Dialects](https://medium.com/codex/building-a-sql-tokenizer-and-formatter-from-scratch-supporting-6-dialects-3a7ff63bb870?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
