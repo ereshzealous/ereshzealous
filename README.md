@@ -129,16 +129,16 @@ I focus on **platform thinking** — building systems that scale across teams, s
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Virtual Threads at Scale &lpar;Part 3&rpar; : Flow Control, Load Shedding, and Graceful Degradation](https://eresh-gorantla.medium.com/java-virtual-threads-at-scale-part-3-flow-control-load-shedding-and-graceful-degradation-6a5b9c4f2211?source=rss-730530feb059------2)
+- [Java Virtual Threads at Scale &lpar;Part 2&rpar; : Preventing Cache Stampedes and Connection Starvation](https://eresh-gorantla.medium.com/java-virtual-threads-at-scale-part-2-preventing-cache-stampedes-and-connection-starvation-17184bad24c1?source=rss-730530feb059------2)
+- [Java Virtual Threads at Scale &lpar;Part 1&rpar; : Execution Model, Request Scoping, and Carrier Pinning](https://eresh-gorantla.medium.com/java-virtual-threads-at-scale-part-1-execution-model-request-scoping-and-carrier-pinning-25c2364ffe43?source=rss-730530feb059------2)
+- [Virtual Threads at Scale: Architecture, Bottlenecks, and Real-World Latency](https://eresh-gorantla.medium.com/virtual-threads-at-scale-architecture-bottlenecks-and-real-world-latency-57ffcddeb201?source=rss-730530feb059------2)
 - [Distributed Systems: A Timeout Is Not a Failure](https://medium.com/swlh/distributed-systems-a-timeout-is-not-a-failure-67a74ef824bc?source=rss-730530feb059------2)
 - [When Time Lies: Why Timestamps Don’t Tell You What Happened First](https://medium.com/swlh/when-time-lies-why-timestamps-dont-tell-you-what-happened-first-071f63bbb988?source=rss-730530feb059------2)
 - [Distributed Systems — Kafka Wasn’t Slow, Our Partition Key Was](https://medium.com/codex/distributed-systems-kafka-wasnt-slow-our-partition-key-was-55840b7411ba?source=rss-730530feb059------2)
 - [System Design : Reliable Multi Channel Notification System, The Bugs Live Between the Boxes](https://medium.com/codex/system-design-reliable-multi-channel-notification-system-the-bugs-live-between-the-boxes-c79ac605e282?source=rss-730530feb059------2)
 - [Distributed Systems : CDC Is Not a Pipe](https://medium.com/codex/distributed-systems-cdc-is-not-a-pipe-645e3d1e857e?source=rss-730530feb059------2)
 - [Distributed Systems: The Noisy Tenant Problem in Kafka](https://blog.devgenius.io/distributed-systems-the-noisy-tenant-problem-in-kafka-1af82ae9c16b?source=rss-730530feb059------2)
-- [Cache Stampede: How One Expired Key Takes Down Your Database](https://medium.com/codex/cache-stampede-how-one-expired-key-takes-down-your-database-4a2e748ce015?source=rss-730530feb059------2)
-- [A Production Pattern for Hybrid OpenTelemetry Collector Deployments on Kubernetes](https://medium.com/codex/a-production-pattern-for-hybrid-opentelemetry-collector-deployments-on-kubernetes-f2012c8f2686?source=rss-730530feb059------2)
-- [Templane - a typed-contract layer for templates, with five conforming implementations](https://medium.com/codex/templane-a-typed-contract-layer-for-templates-with-five-conforming-implementations-d94a0903802f?source=rss-730530feb059------2)
-- [Architecture Breaks Silently. I Built a Tool That Finds Out Why](https://ai.plainenglish.io/architecture-breaks-silently-i-built-a-tool-that-finds-out-why-88de58fa8c2e?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
