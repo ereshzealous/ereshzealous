@@ -129,6 +129,7 @@ I focus on **platform thinking** — building systems that scale across teams, s
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Drawtide — Design Systems,Connect Ideas, Tell Stories](https://medium.com/codex/drawtide-design-systems-connect-ideas-tell-stories-b3d455affa3f?source=rss-730530feb059------2)
 - [Java Virtual Threads at Scale &lpar;Part 3&rpar; : Flow Control, Load Shedding, and Graceful Degradation](https://eresh-gorantla.medium.com/java-virtual-threads-at-scale-part-3-flow-control-load-shedding-and-graceful-degradation-6a5b9c4f2211?source=rss-730530feb059------2)
 - [Java Virtual Threads at Scale &lpar;Part 2&rpar; : Preventing Cache Stampedes and Connection Starvation](https://eresh-gorantla.medium.com/java-virtual-threads-at-scale-part-2-preventing-cache-stampedes-and-connection-starvation-17184bad24c1?source=rss-730530feb059------2)
 - [Java Virtual Threads at Scale &lpar;Part 1&rpar; : Execution Model, Request Scoping, and Carrier Pinning](https://eresh-gorantla.medium.com/java-virtual-threads-at-scale-part-1-execution-model-request-scoping-and-carrier-pinning-25c2364ffe43?source=rss-730530feb059------2)
@@ -138,7 +139,6 @@ I focus on **platform thinking** — building systems that scale across teams, s
 - [Distributed Systems — Kafka Wasn’t Slow, Our Partition Key Was](https://medium.com/codex/distributed-systems-kafka-wasnt-slow-our-partition-key-was-55840b7411ba?source=rss-730530feb059------2)
 - [System Design : Reliable Multi Channel Notification System, The Bugs Live Between the Boxes](https://medium.com/codex/system-design-reliable-multi-channel-notification-system-the-bugs-live-between-the-boxes-c79ac605e282?source=rss-730530feb059------2)
 - [Distributed Systems : CDC Is Not a Pipe](https://medium.com/codex/distributed-systems-cdc-is-not-a-pipe-645e3d1e857e?source=rss-730530feb059------2)
-- [Distributed Systems: The Noisy Tenant Problem in Kafka](https://blog.devgenius.io/distributed-systems-the-noisy-tenant-problem-in-kafka-1af82ae9c16b?source=rss-730530feb059------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://eresh-zealous.medium.com/)
